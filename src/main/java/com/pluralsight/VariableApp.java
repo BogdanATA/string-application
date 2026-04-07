@@ -8,6 +8,9 @@ public class VariableApp {
         boolean hasPets;
         String niceMessage;
 
-
+        final int DAYS_IN_WEEK = 7;
+        double coffeePrice = 4.99;
+        char favLetter = 'B';
+        boolean isRaining = false;
     }
 }
