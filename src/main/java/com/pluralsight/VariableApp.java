@@ -12,5 +12,10 @@ public class VariableApp {
         double coffeePrice = 4.99;
         char favLetter = 'B';
         boolean isRaining = false;
+
+        System.out.println("There are" + " " + DAYS_IN_WEEK + " " + "days in a week");
+        System.out.println("The price of coffee is $" + coffeePrice);
+        System.out.println("My favorite letter is: " + favLetter);
+        System.out.println("It is raining: " + isRaining);
     }
 }
